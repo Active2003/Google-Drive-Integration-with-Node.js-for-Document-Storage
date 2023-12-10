@@ -3,6 +3,9 @@
 ### Description
 This repository contains the server-side code for a Node.js application that enables users to upload documents to Google Drive and store corresponding file links in a MySQL database. This code is meant to be used as the backend service.
 
+### Screenshot
+![Screenshot 2023-12-11 015001](https://github.com/Active2003/Google-Drive-Integration-with-Node.js-for-Document-Storage/assets/109369749/3105d187-e3b4-4105-b816-06ff0c9a3009)
+
 ### Features
 Upload documents to Google Drive.<br>
 Store file links in a MySQL database.<br>
